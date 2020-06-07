@@ -1,5 +1,3 @@
-# COVID_DIARIES
-
 	LINKS:  
 	https://github.com/EXYNOS-999  
 	https://devpost.com/EXYNOS-999  
@@ -340,6 +338,7 @@ MIT Rapid Innovation Dashboard
 Harvard Opportunity Insights (OI) Research
 Project Lead(s)
 Rishabh and Lucas
+
 Project Description
 
 This project is assisting Opportunity Insights by collecting county-level economic data, particularly unemployment insurance claims and bankruptcy claims. The focal point of this project would be a collection of real-time public data to create well-processed, high-quality datasets from unstructured data which will be analyzed by researchers and be used to translate these research findings into policy change. Our main deliverable is a github and airtable of links.
@@ -369,7 +368,120 @@ https://docs.google.com/presentation/d/1p1ulpvU6R9mHxri6-H7Z3cuQZRLM72lWNeI5UiC1
 https://www.luxetics.com/
 
 
-WINNERS 
+WINNER 2020 PHYSICAL HEALTH TRACK!!!
+
+
+### IBM CALL FOR CODE 2020
+
+
+
+
+
+
+### LUMIATA TWITTER PANDEMIC INDEX 
+
+Inspiration
+Just like the stock index, the Twitter Pandemic Index reflects global sentiment about the COVID-19 pandemic.
+
+
+What it does
+
+
+Slide along the Twitter Pandemic Index and see the most frequent words, hashtags, emojis and symptoms mentioned on those up and down days. 
+For example, the Twitter Pandemic Index follows the ups and downs of several milestone events (ref: CNN timeline):
+2020-02-02: first death outside China (Philippines)
+2020-02-07: the world mourns the death of Dr Li Wenliang whose early warning about the coronavirus was silenced by China
+2020-02-29: first death in the US (Washington state)
+2020-03-03: Federal Reserve cuts interest rate by 0.5%
+2020-03-11: WHO declares COVID-19 a pandemic
+2020-03-13: US announces relief package
+
+
+One interesting observation is that since the middle of March, the Twitter Pandemic Index rose to a new high (but still not in the positive zone) when people worked from home and started using more ❤️ 🙏in their emojis, suggesting that working from home improved sentiment and unified people, bringing out the best in humanity.
+
+
+
+
+
+
+
+
+https://docs.google.com/document/d/1o4C0nPYW-71K5oc9bybB1ml2Hxdx6_XsxdaPT5q7JXQ/edit?usp=sharing
+
+https://devpost.com/software/tweet-pandemic-index
+
+
+	
+
+### MIT AICURES 
+
+
+
+
+
+### DECENTRALIZED PANDEMIC RESERVE 
+
+https://github.com/EXYNOS-999/decentralized-pandemic-reserve
+
+https://github.com/indigotheory/decentralized-pandemic-reserve/blob/master/DECENTRALIZED%20PANDEMIC%20RESERVE.pdf
+
+https://www.youtube.com/watch?v=nG3cCnCNum8&feature=youtu.be
+
+https://e2us1r.axshare.com/#id=e51bqy&p=choose_flow
+
+https://indigotheory.invisionapp.com/console/DPR-ck9rffjvz07hd01076jheelpn/ck9wb195400hs01zw84dbwm9v/play
+
+
+Problems
+
+    Companies are repurposing their production lines to join the fight against COVID-19. However, pivoting manufacturing capabilities is no easy task and companies must overcome different levels of complexity in order to make this shift.
+
+        Material Example - car maker Shanghai General Motors Wuling (SGMW) was able to receive medical-grade textiles from a supplier that previously provided interior textile for cars.
+
+        Manufacturing Example - The idea here is to use automotive companies' idle capacity to serve as contract manufacturers (CMOs) for medical device companies, which are already producing at their maximum capacity.
+
+        Existing Supplies Example - Existing supplies in reserves. Tapping into community supply, combining resources into a general supply to move stock piles to areas of need.
+
+    Pandemics are a Global problem yet our responses are localized. Beating a pandemic requires international cooperation and resources. When Countries compete with each other for imported supplies, or local communities compete against world trade, in the end, this inefficiency costs lives. We propose a Decentralized Autonomous Supply Chain Database that can match resource need based on manufacturing equipment, materials, and product availability.
+
+    Create a global pandemic supply train of resources, supplies, and manufacturing capabilities.
+    A proactive response to outbreaks by using existing models to contain hotspots.
+    Match needs with resources
+
+Solution
+Short-Term Impact:
+
+The magnitude of the coronavirus crisis and the scale of resource coordination required has necessitated an international response. Connecting manufacturing with those who are in need and those who can help. Fulfilling immediate global supply needs through a global supply chain. Our platform would allow for a factory in Paris to pivot from perfume to hand sanitizer and matched with a grocery store in rural Arkansas in need of hand sanitizer for their work force.
+
+Repurposing helps companies to protect their own workforce and serve the greater good. Repurposing also allows companies to keep production lines up and running in times of low demand, generate moderate revenues, and positively impact their reputation.
+Long-Term Impact
+
+To create a global resource to respond to a pandemic. A Decentralized Autonomous Pandemic Reserve that offers every country:
+
+    Access to global, standardized data
+    Access to a global supply chain
+    Contribution to international reserves
+    Futures trading in international markets *
+    A Global response to a global crisis through an international cooperative DAO using AI to model, inform and manage global resources.
+
+Technical Requirements (MVP in bold)
+
+    Supply Chain
+
+    Existing supplies in reserves. Tapping into community supply, combining resources into a general supply
+    Facilitate distribution of supplies
+
+    Manufacturing - Creating an aggregate list of needs (masks, ventilators) for all locations - Creating a list of manufacturers. - Incentives and payments for fulfilling orders
+    Emergency Response
+
+    A volunteer network where businesses and individuals can enroll.
+        Business: Commit to a reserve supply (5,000 masks, 10 ventilators, pivot as a local manufacturer
+        Individual: Commit to serve (Doctors, nurses, admin, transportation…). A standing Medical Reserve
+        Locations: Convention Centers, Sporting Arenas, warehouses. Space for beds, procedures. - Allocating and distributing supplies, resources, and locations through a DAO.
+        Ex: NYC needs 200,000 masks for the next week. Paris needs 500,000. San Francisco needs 600,000. Global supply produces 200,000/week. Based on outbreak curves/models, allocate masks to all 3 locations based on curve %
+
+
+
 
 
 
